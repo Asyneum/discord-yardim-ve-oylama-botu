@@ -14,4 +14,4 @@
 - Yönetici izinlerine sahip bir OAuth2 URL'si oluşturun ve botu sunucunuza davet etmek için bu URL'yi kullanın
 - Botunuza ait Tokeni saklayın ve gizli tutun
 
-Yardıma ihtiyacınız olursa Discord üzerinden **Philos#7422**'a ulaşın.
+Yardıma ihtiyacınız olursa Discord üzerinden **Asyneuma#0001**'a ulaşın.
